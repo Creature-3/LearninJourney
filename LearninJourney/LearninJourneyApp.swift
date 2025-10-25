@@ -11,7 +11,8 @@ import SwiftUI
 struct LearninJourneyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ActivityView()
+       
         }
     }
 }
