@@ -17,17 +17,17 @@ Whether you're learning Swift or painting, you’ll *see* your journey bloom thr
 ---
 
 ## 🧩 Structure Overview
-//
-📁 LearnTrack
-├── 🧠 ViewModels
-│ ├── CalendarViewModel.swift
-│ ├── LogActionsViewModel.swift
-│ └── GoalViewModel.swift
-├── 🖼️ Views
-│ ├── ActivityView.swift
-│ ├── MiniCalendarView.swift
-│ ├── LogActionsView.swift
-│ ├── CleanCalendarView.swift
-│ └── MonthYearPickerView.swift
-└── 📘 Models
-└── LearningDay.swift
+📁 Learninjourney\
+├── 🧠 ViewModels\
+│ ├── CalendarViewModel.swift\
+│ ├── LogActionsViewModel.swift\
+│ └── GoalViewModel.swift\
+├── 🖼️ Views\
+│ ├── ActivityView.swift\
+│ ├── ActionsButtonsView.swift\
+│ ├── fullcalendarpageView.swift\
+│ ├── minicalendarview.swift\
+| ├── OnboardingView
+│ └── Update.swift\
+└── 📘 Models\
+└── LearningDay.swift\
